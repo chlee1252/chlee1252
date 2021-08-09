@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💻 I’m currently working as a Software Engineer at [11street](https://www.11st.co.kr/)
-- 🌱 I’m currently learning Java/Spring Boot/VueJS/Flutter
 - 😄 Pronouns: He/Him/His
 
 ## Github Stats  
