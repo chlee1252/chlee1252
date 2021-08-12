@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 - 💻 I’m currently working as a Software Engineer at [11street](https://www.11st.co.kr/)
 - 😄 Pronouns: He/Him/His
+- 👨‍💻 Learning Flutter for FUN! 😁
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
