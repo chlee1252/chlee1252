@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 I’m currently working as a Software Engineer at [kakaobank](https://www.kakaobank.com)
+- 💻 I’m currently working as a Software Engineer at [Kakaobank](https://www.kakaobank.com)
 - 😄 Pronouns: He/Him/His
 - 👨‍💻 Learning Flutter for FUN! 😁
 
